@@ -1,4 +1,5 @@
-```gantt
+```mermaid
+gantt
     title Engineering Milestones
     dateFormat YYYY-MM-DD
     axisFormat %m/%d
